@@ -26,7 +26,7 @@
 </p> 
 
 ### General Tools 💻
-<p>
+<p align="center">
   <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
   <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
   <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
