@@ -3,7 +3,6 @@
 </p>
 
 ### Languages 👾
-
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 	<img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -17,7 +16,6 @@
 </p>
 
 ### Game Tools 🎮
-
 <p align="center">
   <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/>
   <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
@@ -28,8 +26,10 @@
 ### General Tools 💻
 <p align="center">
   <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-  <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+  <!--- <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/> -->
+  <img width="10%" style="padding:5px" src="https://github.com/Kile467/Kile467/blob/main/assets/github.svg"/>
   <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
+  <img width="10%" style="padding:5px" src="https://github.com/Kile467/Kile467/blob/main/assets/notion-logo.64ce0d00_white.png"/>
   <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
  <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>
 </p>
