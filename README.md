@@ -2,11 +2,6 @@
   <img src="https://github.com/Kile467/Kile467/blob/main/assets/intro.gif">
 </p>
 
-### Currently Working w/
-<p align="center">
-  <img width="10%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"/>
-</p> 
-
 ### Languages 👾
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -38,6 +33,11 @@
   <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
  <img width="10%" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>
 </p>
+
+### Currently Working w/
+<p align="center">
+  <img width="10%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"/>
+</p> 
 
 #### Profile views counter
 > ![Visitor Count](https://profile-counter.glitch.me/{Kile467}/count.svg)
